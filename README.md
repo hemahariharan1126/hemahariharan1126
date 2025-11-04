@@ -7,7 +7,7 @@
 
 - 🔭 Working on: AI-powered sports assessment, trading bots, and full-stack apps
 - 🎯 Open for internships/collaborations
-- 🏅 SIH Participant | Top student @ DSEC, Chennai
+- 🏅  Top student @ DSEC, Perambalur
 
 <p align="center">
   <a href="https://linkedin.com/in/hema-hariharan-baburaj-b914b3320"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
@@ -36,7 +36,6 @@
 
 ## 🤹 Fun Facts
 - 🎵 Music explorer (mushroom ft rj pasin)
-- 🪛 Hardware enthusiast and troubleshooting ninja
 - 😄 "Let's build something cool!"
 
 <details>
@@ -47,4 +46,4 @@
 </details>
 
 ---
-*Inspired by awesome profiles like [abhisheknaiidu](https://github.com/abhisheknaiidu) & [DenverCoder1](https://github.com/DenverCoder1)*
+

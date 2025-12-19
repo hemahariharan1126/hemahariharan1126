@@ -89,10 +89,10 @@
 
 ### 🎨 Personal Interests
 
-🎵 **Music Discovery** - Exploring diverse genres (mushroom ft rj pasin fan!)  
-🎮 **Tech Innovation** - Following latest trends in AI, blockchain, and emerging tech  
+🎵 **Music Discovery** - Exploring diverse genres (mushroom ft rj pasin )  
+🎮 **Tech Innovation** - Following latest trends in AI and emerging tech  
 📚 **Continuous Learning** - Online courses, tech blogs, and community engagement  
-🌍 **Community Building** - Mentoring juniors and organizing tech workshops
+🌍 **Community Building** - Mentoring juniors and connecting and networking is always the key 
 
 ---
 
@@ -123,8 +123,8 @@
 ## 📫 Let's Connect!
 
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <a href="https://linkedin.com/in/hema-hariharan-baburaj-b914b3320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hemacs2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/hema-hariharan-baburaj-b914b3320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="hariharan098757994326@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/hemahariharan1126"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=hemahariharan1126&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />

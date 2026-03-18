@@ -21,7 +21,7 @@
 
 | 📍 | 📅 | 🔧 |
 |---|---|---|
-| Chennai, Tamil Nadu, India | 2023 - 2027 | Python & JS Stack |
+| Chennai, Tamil Nadu, India | 2023 - 2027 | Python in AI and ML stacks |
 
 </div>
 
@@ -79,7 +79,7 @@ I'm an **AI Engineering student** specializing in **Machine Learning, Deep Learn
 | Role | Organization | Duration | Highlights |
 |---|---|---|---|
 | 🤖 **AI Intern** | CodSoft (Remote) | Dec 2024 - Jan 2025 | Developed ML classification models, feature engineering, hyperparameter tuning |
-| 📅 **Hackathon Winner** | Code Kalari, IIIT Kottayam | Jan 2026 | Built **KnowGrow** - AI-based Adaptive LMS with behavior analysis |
+| 📅 **Hackathon Participation** | Code Kalari, IIIT Kottayam | Jan 2026 | Built **KnowGrow** - AI-based Adaptive LMS with behavior analysis |
 | 📊 **AI Simulation** | Vista Equity Partners (Forage) | 2025 | Job simulation in AI/ML domain |
 | 🛠️ **Software Engg.** | Walmart USA (Forage) | 2025 | Advanced software engineering simulation |
 | 🧠 **GenAI Cert.** | TATA (IIM) | 2026 | GenAI and Data Analytics certification |
@@ -110,7 +110,7 @@ I'm an **AI Engineering student** specializing in **Machine Learning, Deep Learn
 
 ### 📩 Let's Build Something Amazing Together!
 
-[![Gmail](https://img.shields.io/badge/%F0%9F%93%A7%20Email-hemahariharan1126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemahariharan1126@gmail.com)
+[![Gmail](https://img.shields.io/badge/%F0%9F%93%A7%20Email-hemahariharan2611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemahariharan2611@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-hariharan-baburaj-b914b3320)
 [![GitHub](https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-@hemahariharan1126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemahariharan1126)
 

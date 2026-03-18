@@ -1,136 +1,123 @@
-<!-- Centered Animated SVG Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hema%20Hariharan%20🚀&fontSize=50&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Full-Stack%20Developer%20|%20Innovation%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn" alt="Header Banner" />
+<!-- Header Banner -->
+<div align="center">
 
-<!-- Custom Call-to-Action Badges -->
-<img align="center" src="https://img.shields.io/badge/🎯%20Open%20for%20Internships-Available-brightgreen?style=for-the-badge" alt="Open for Internships" />
-  <a href="https://github.com/hemahariharan1126?tab=repositories"><img src="https://img.shields.io/badge/👀%20View%20My%20Projects-Explore-blue?style=for-the-badge" alt="View Projects" /></a>
-  <a href="https://linkedin.com/in/hema-hariharan-baburaj-b914b3320"><img src="https://img.shields.io/badge/💼%20Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="Let's Connect" /></a>
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hema%20Hariharan%20%F0%9F%9A%80&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer%20|%20Deep%20Learning%20|%20Computer%20Vision%20|%20NLP&descSize=18&descAlignY=55&animation=fadeIn)
 
----
+[![Open for AI/ML Internships](https://img.shields.io/badge/%F0%9F%8E%AF%20Open%20for%20AI%2FML%20Internships-Available-brightgreen?style=for-the-badge)]()
+[![GitHub Repos](https://img.shields.io/badge/%F0%9F%93%82%2028%20Repos-Python%2FAI-orange?style=for-the-badge)](https://github.com/hemahariharan1126?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hema-hariharan-baburaj-b914b3320)
 
-## 👨‍💻 About Me
+### 🎯 AI Engineering Student | Building Scalable Intelligence Systems
 
-**🎓 Computer Science Engineering Student** at DSEC, Perambalur | **🏆 Top Performer**
+**B.Tech in Artificial Intelligence & Data Science** @ Dhanalakshmi Srinivasan Engineering College, Tamil Nadu
 
-🔹 **Passionate** about leveraging **AI/ML** and **Full-Stack Development** to solve real-world problems  
-🔹 **Experienced** in building end-to-end applications, automation tools, and intelligent systems  
-🔹 **Driven** by curiosity, innovation, and a commitment to continuous learning  
-🔹 **Eager** to contribute to impactful projects and collaborate with forward-thinking teams
+</div>
 
 ---
 
-## 💼 What I Bring
+## 📊 About Me
 
-✨ **Technical Versatility**: Proficiency across AI/ML, Full-Stack (MERN), Python automation, and cloud technologies  
-🎯 **Problem-Solving Mindset**: Strong analytical skills with a track record of innovative solutions  
-🚀 **Project Leadership**: Experience leading and delivering complex projects from concept to deployment  
-🤝 **Collaboration & Communication**: Effective team player with excellent interpersonal skills  
-📈 **Growth Orientation**: Quick learner, adaptable to new technologies and methodologies
+<div align="center">
 
----
+| 📍 | 📅 | 🔧 |
+|---|---|---|
+| Chennai, Tamil Nadu, India | 2023 - 2027 | Python & JS Stack |
 
-## 🎯 Current Focus
+</div>
 
-- 🔭 **Working on**: AI-powered sports assessment platforms and scalable full-stack applications
-- 🌱 **Learning**: Advanced machine learning techniques, cloud architecture (AWS/Azure), and DevOps practices
-- 💼 **Open to**: Internship opportunities, collaborative projects, and mentorship in AI/ML and Full-Stack domains
-- 🏅 **Achievements**: Academic excellence and multiple project deployments
+I'm an **AI Engineering student** specializing in **Machine Learning, Deep Learning, Computer Vision, and NLP**. I've developed **15+ ML models** across multiple domains, achieving production-grade performance metrics like **92% accuracy in medical diagnosis** and **60 FPS in real-time object detection**. My expertise spans the entire AI pipeline—from data preprocessing and model training to deployment using **TensorFlow, PyTorch, and Scikit-learn**.
 
 ---
 
-## 🚀 Project Highlights
+## 🛠️ Technical Skills
 
-### 🌟 Featured Work
+<div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🌐 **Full-Stack MERN Platform** | End-to-end web application with authentication, CRUD operations, and responsive design | MongoDB, Express, React, Node.js | [Demo](https://github.com/hemahariharan1126/full_stack) |
-| 🐍 **Python Automation Suite** | Collection of automation tools for data processing, web scraping, and workflow optimization | Python, BeautifulSoup, Selenium | [Demo](https://github.com/hemahariharan1126/Python-projects) |
+| 🧠 Machine Learning | 💬 GenAI & NLP | 👁️ Computer Vision |
+|---|---|---|
+| TensorFlow, PyTorch, Keras | LLMs, RAG, LangChain | YOLO, OpenCV |
+| Scikit-learn, CNN, RNN, LSTM | Prompt Engineering, Hugging Face | Image Processing, MediaPipe |
+| Ensemble Learning, Hyperparameter Tuning | AI Chatbot Development, spaCy, NLTK | Real-time Detection (60 FPS) |
+| Feature Engineering, Model Explainability | Named Entity Recognition, Sentiment Analysis | Medical Image Analysis |
 
-**📂 Explore All Projects**: [View Repositories →](https://github.com/hemahariharan1126?tab=repositories)
+| 📊 Data Science | 💻 Programming | 🌐 Web & Backend |
+|---|---|---|
+| Pandas, NumPy, Matplotlib | Python, JavaScript, SQL | Flask, FastAPI, Node.js |
+| Time-Series Analysis, NumPy | PostgreSQL, MongoDB | React, REST APIs, Express |
+| Statistical Modeling, EDA | Git, Docker, VS Code | Streamlit, Postman |
 
----
-
-## 🛠️ Tech Toolbox
-
-### 💻 Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🏆 Awards & Recognitions
+## 🚀 Featured AI Projects
 
-🎓 **Top Student** - DSEC, Perambalur (Consistent academic excellence)  
-🏅 **Project Excellence** - Multiple full-stack and AI/ML projects recognized by faculty  
-⭐ **GitHub Contributor** - Active open-source contributions and repository maintenance
+<div align="center">
 
----
+### 🏆 Top 5 Flagship Projects
 
-## 🌟 Soft Skills & Interests
+</div>
 
-### 💪 Core Competencies
+| Project | Tech Stack | Key Metrics | Status |
+|---|---|---|---|
+| 🔍 **[Real-Time Object Detection (YOLO)](https://github.com/hemahariharan1126/real-time-object-detection-yolo)** | YOLOv8, OpenCV, Flask, REST API | **60 FPS** real-time inference, webcam + web deployment | ✅ Deployed |
+| 💊 **[Medical Diagnosis Predictor](https://github.com/hemahariharan1126/medical-diagnosis-predictor)** | Deep Learning, TensorFlow, LIME/SHAP | **92% Accuracy**, Explainable AI for healthcare | ✅ Built |
+| 🎵 **[TuneCLI](https://github.com/hemahariharan1126/tunecli)** - AI Music Recommendation | Python, Spotify API, Cosine Similarity, CLI | Mood-aware filtering, adaptive streaming, personalized recommendations | ✅ Active |
+| 📄 **[Resume Parser NLP](https://github.com/hemahariharan1126/resume-parser-nlp)** | NER, TF-IDF, spaCy, NLP, REST API | Automated job-role matching, semantic scoring | ✅ Deployed |
+| 💬 **[Sentiment Analysis NLP](https://github.com/hemahariharan1126/sentiment-analysis-nlp)** | LSTM, Flask, IMDB Dataset (50K reviews) | **89% Precision**, Naive Bayes + Deep Learning | ✅ Deployed |
 
-| Skill | Description |
-|-------|-------------|
-| 🧩 **Problem Solving** | Analytical thinker with a knack for breaking down complex challenges |
-| 🤝 **Teamwork** | Collaborative mindset, experienced in agile team environments |
-| 🎯 **Leadership** | Project coordination and mentoring peers in technical domains |
-| 💬 **Communication** | Effective presenter and technical documentation specialist |
-| 🔧 **Troubleshooting** | Debugging expert with systematic approach to issue resolution |
+<div align="center">
 
-### 🎨 Personal Interests
+➕ **[Explore All 28 Repositories](https://github.com/hemahariharan1126?tab=repositories)**
 
-🎵 **Music Discovery** - Exploring diverse genres (mushroom ft rj pasin )  
-🎮 **Tech Innovation** - Following latest trends in AI and emerging tech  
-📚 **Continuous Learning** - Online courses, tech blogs, and community engagement  
-🌍 **Community Building** - Mentoring juniors and connecting and networking is always the key 
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Experience & Certifications
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=hemahariharan1126&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-
-<img align="center" src="https://streak-stats.demolab.com/?user=hemahariharan1126&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hemahariharan1126&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemahariharan1126&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemahariharan1126&theme=react-dark&hide_border=true" alt="Contribution Graph" width="53%" />
-
----
-
-## 🎉 Fun Facts Grid
-
-| 😄 | 🎵 | 💡 | 🚀 |
-|:---:|:---:|:---:|:---:|
-| **Philosophy** | **Music Vibe** | **Daily Motto** | **Dream** |
-| "Let's build something cool!" | Music explorer (mushroom ft rj pasin) | Code, Learn, Repeat | Building the future of tech |
-| 🌟 | 🎯 | 💻 | 🤓 |
-| **Superpower** | **Current Obsession** | **Coding Style** | **Fun Fact** |
-| Turning ideas into code | AI Innovation & ML | Clean, efficient, documented | Debugging is my meditation |
+| Role | Organization | Duration | Highlights |
+|---|---|---|---|
+| 🤖 **AI Intern** | CodSoft (Remote) | Dec 2024 - Jan 2025 | Developed ML classification models, feature engineering, hyperparameter tuning |
+| 📅 **Hackathon Winner** | Code Kalari, IIIT Kottayam | Jan 2026 | Built **KnowGrow** - AI-based Adaptive LMS with behavior analysis |
+| 📊 **AI Simulation** | Vista Equity Partners (Forage) | 2025 | Job simulation in AI/ML domain |
+| 🛠️ **Software Engg.** | Walmart USA (Forage) | 2025 | Advanced software engineering simulation |
+| 🧠 **GenAI Cert.** | TATA (IIM) | 2026 | GenAI and Data Analytics certification |
 
 ---
 
-## 📫 Let's Connect!
+## 📈 GitHub Activity
 
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <a href="www.linkedin.com/in/hema-hariharan-baburaj-b914b3320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="hariharan098757994326@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hemahariharan1126"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<div align="center">
 
-<img align="center" src="https://komarev.com/ghpvc/?username=hemahariharan1126&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemahariharan1126&show_icons=true&theme=github-dark&hide_border=false&title_color=00ADB5&icon_color=00ADB5&text_color=EAEAEA&bg_color=0D1117&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemahariharan1126&layout=compact&theme=github-dark&hide_border=false&title_color=00ADB5&text_color=EAEAEA&bg_color=0D1117&langs_count=6)
+
+</div>
 
 ---
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+## 🔥 Currently Working On
 
-<img align="center"><b>⭐ From <a href="https://github.com/hemahariharan1126">Hema Hariharan</a> with passion and innovation ⭐</b></img>
+- 👁️ **Computer Vision Pipelines** - Scaling YOLO models for production environments
+- 🧠 **Generative AI Applications** - Building RAG-powered systems and AI chatbots
+- 🌐 **Full-Stack AI Platforms** - Integrating ML models with modern web frameworks
+- 📱 **MLOps & Deployment** - Containerizing and deploying models with Docker
+
+---
+
+<div align="center">
+
+### 📩 Let's Build Something Amazing Together!
+
+[![Gmail](https://img.shields.io/badge/%F0%9F%93%A7%20Email-hemahariharan1126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemahariharan1126@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hema-hariharan-baburaj-b914b3320)
+[![GitHub](https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-@hemahariharan1126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemahariharan1126)
+
+---
+
+⚡ **Seeking AI/ML Internship Opportunities** | 🚀 Open to Collaborations & Open Source
+
+*Last updated: March 2026*
+
+</div>

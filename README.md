@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-> 🚀 AI Engineer in the making, obsessed with building real-world intelligent systems.
+> 🚀 Identified Myself as AI Engineer in the making, obsessed with building real-world intelligent systems.
 
 - 🎓 B.Tech AI & DS — Dhanalakshmi Srinivasan Engineering College  
 - 📍 Chennai, India  
